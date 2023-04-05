@@ -13,3 +13,7 @@ Collin Closek is a Staff Scientist at the Stanford Center for Ocean Solutions at
 ## Lena's contributions 
 
 Hello!
+
+## Collin's contributions
+
+Hi!!
